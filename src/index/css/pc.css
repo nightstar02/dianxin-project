@@ -1,0 +1,39 @@
+.logo{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.logo img{
+    width: 48px;
+    height: 48px;
+}
+.logo span{
+    font-size: 24px;
+    padding-left: 5px;
+}
+footer{
+    text-align: center;
+}
+.container{
+ padding-top: 10px;
+}
+.leftContainer{
+    padding-top: 20px;
+    width: 400px;
+    float: left;
+    
+}
+.carousel{
+    float: left;
+    width: 400px;
+}
+.topNewsList{
+    float: left;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-around;
+    margin-top:10px;
+    
+}
